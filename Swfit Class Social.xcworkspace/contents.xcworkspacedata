@@ -2,7 +2,7 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:Swfit Class Social.xcodeproj">
+      location = "group:/Users/essac/Desktop/Swift/class-projects/Swfit Class Social/Swift Class Social.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:Pods/Pods.xcodeproj">
